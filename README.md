@@ -1,6 +1,6 @@
 # Vuetify-memo <br>
 >vue create v-memo<br>
- - vue2선택<br>
+  select - vue 2<br>
 >cd v-memo<br>
 v-memo>npm install --save vue-router@3 <br>
 v-memo>vue add vuex<br>
